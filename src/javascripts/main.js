@@ -5,7 +5,6 @@ console.error('working');
 
 const init = () => {
   initBoards.initBoards();
-  initBoards.boardBuilder();
 };
 
 init();
